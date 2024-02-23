@@ -1,0 +1,38 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #001f3f; /* Mudança para um azul mais claro */
+  color: #fff; /* Cor das fontes em branco */
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  max-width: 800px;
+  margin: 20px auto;
+  padding: 20px;
+  background-color: #6495ED; /* Mudança para a cor azul pastel */
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h1, h2, h3 {
+  color: #fff; /* Títulos em branco */
+}
+
+h2 {
+  border-bottom: 2px solid #f8a836; /* Aumento da largura da linha laranja para 2px */
+  padding-bottom: 10px;
+  margin-top: 20px;
+}
+
+p, ul {
+  color: #000; /* Cor do texto principal em preto */
+  margin-bottom: 20px;
+}
+
+ul {
+  margin-left: 20px;
+}
+
+li {
+  list-style-type: disc;
+}
